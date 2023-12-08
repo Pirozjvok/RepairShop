@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="RepairShop.Item"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RepairShop"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Border Height="100" BorderBrush="Red" BorderThickness="2" Background="#CFE2FF">
+        <DockPanel>
+            <Border DockPanel.Dock="Left"  BorderBrush="Red" BorderThickness="1" Margin="15,0,0,0" Height="70" Width="70">
+                <Image Name="image" Height="70" Width="70" Stretch="UniformToFill"/>
+            </Border>
+            <Button x:Name="button" Height="50" DockPanel.Dock="Right" HorizontalAlignment="Right" Margin="0,0,25,0" Click="Button_Click">Добавить в корзину</Button>
+            <Label Name="price" FontSize="18" DockPanel.Dock="Right" VerticalAlignment="Center" Margin="10">200 руб</Label>
+            <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                <Label Name="name" FontSize="20">Топовая штука для твоего автомобиля</Label>
+                <Label Name="desc" FontSize="16" Foreground="Gray">Тут короче должно быть описание</Label>
+            </StackPanel>
+        </DockPanel>
+    </Border>
+</UserControl>

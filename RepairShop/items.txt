@@ -1,0 +1,4 @@
+1;https://www.super-ego.ru/upload/iblock/29c/va22bbdkybxc39g2rwggsky0ew48f4mm/1eae474f_5b28_11e7_80e9_00265586c71d_ed2a003b_3d16_11ea_b820_00505684fdee.jpg;Тест;Тест2;102,5
+2;https://www.super-ego.ru/upload/iblock/29c/va22bbdkybxc39g2rwggsky0ew48f4mm/1eae474f_5b28_11e7_80e9_00265586c71d_ed2a003b_3d16_11ea_b820_00505684fdee.jpg;Топовая штука для твоего автомобиля;Тут короче должно быть описание;99,5
+3;https://www.super-ego.ru/upload/iblock/29c/va22bbdkybxc39g2rwggsky0ew48f4mm/1eae474f_5b28_11e7_80e9_00265586c71d_ed2a003b_3d16_11ea_b820_00505684fdee.jpg;Топовая штука для твоего автомобиля;Тут короче должно быть описание;100
+4;https://www.super-ego.ru/upload/iblock/29c/va22bbdkybxc39g2rwggsky0ew48f4mm/1eae474f_5b28_11e7_80e9_00265586c71d_ed2a003b_3d16_11ea_b820_00505684fdee.jpg;Топовая штука для твоего автомобиля;Тут короче должно быть описание;200,99
